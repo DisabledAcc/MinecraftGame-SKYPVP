@@ -1,0 +1,14 @@
+name: SSP
+main: me.SSP.Main
+version: 1.0
+author: runTaskLater
+
+commands:
+ stats:
+  description: show your stats
+ prestiges:
+  aliases: [p, ranks, rank, prestige]
+ trash:
+  description: throw your unwanted items
+ ssp:
+  description: set loot crate
