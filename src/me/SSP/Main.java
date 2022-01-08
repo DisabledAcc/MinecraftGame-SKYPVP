@@ -52,7 +52,7 @@ public class Main extends JavaPlugin {
 		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Name: &fS&eSP"));
 		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Status: &aActive!"));
 		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Version: &b0.2.2"));
-		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Developed By &brunTaskLater"));
+		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Developed By &bSyoof_"));
 		Bukkit.getServer().getConsoleSender().sendMessage("");
 		Bukkit.getServer().getConsoleSender().sendMessage("");
 		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&8=============================="));
@@ -69,7 +69,7 @@ public class Main extends JavaPlugin {
 		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Name: &fS&eSP"));
 		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Status: &cDeActive!"));
 		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Version: &b0.2.2"));
-		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Developed By &brunTaskLater"));
+		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&7Developed By &bSyoof_"));
 		Bukkit.getServer().getConsoleSender().sendMessage("");
 		Bukkit.getServer().getConsoleSender().sendMessage("");
 		Bukkit.getServer().getConsoleSender().sendMessage(Main.C("&8=============================="));
