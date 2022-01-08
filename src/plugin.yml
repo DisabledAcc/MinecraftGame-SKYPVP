@@ -1,7 +1,7 @@
 name: SSP
 main: me.SSP.Main
 version: 1.0
-author: runTaskLater
+author: Syoof_
 
 commands:
  stats:
